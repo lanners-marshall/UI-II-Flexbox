@@ -250,5 +250,62 @@ nav a {
 	margin: 2px;
 }
 
-.logo {
+.move-pick {
+	margin-top: 16px;
+}
+
+.stack {
+	display: flex;
+}
+
+.product-padding {
+	margin-top: 30px;
+}
+
+.web-award {
+	height: 32%;
+  width: 25%;
+}
+
+.cloud-award {
+	width: 18%;
+  height: 28%;
+}
+
+.service-award {
+	  width: 14%;
+    height: 28%;
+}
+
+.product-spacing {
+	border: solid black 1px;
+  border-radius: 5%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.main-pic-products {
+	width: 50%;
+  height: 50%;
+  border-radius: 7%;
+  border: solid #ff5730 5px;
+}
+
+.h1-product-col {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	font-size: 70px;
+  text-align: center;
+}
+
+.product-margin {
+	padding-top: 21px;
+  padding-bottom: 20px;
+}
+
+.product-button {
+  margin: 0px 50px 0px 50px;
+  height: 35px;
+  font-size: 16px
 }
